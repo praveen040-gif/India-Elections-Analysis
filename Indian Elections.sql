@@ -1,4 +1,4 @@
--- States Tab;e
+-- States Table
 
 create table states(State_ID varchar(10) primary key,State_name char(100));
 
